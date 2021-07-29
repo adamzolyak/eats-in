@@ -4,5 +4,7 @@ description: A place to keep recipes and lessons learned for eats that I enjoy a
 
 # Eats In
 
-Blah blah blah
+## Mains
+
+[Lobster Rolls](lobster-rolls.md)
 
